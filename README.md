@@ -31,3 +31,13 @@ node_modules : 리액트를 실행할때 필요한 package들
 node.js (npm): javascript packages 모아놓은곳
 
 .gitignore : git에 올릴때 필요 없는 파일 제외하는 공간
+
+----------------------
+
+```
+$ npm i react-router-dom
+$ npm i @types/react-router-dom
+```
+
+
+
