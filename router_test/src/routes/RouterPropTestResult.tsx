@@ -1,10 +1,10 @@
-import {Link} from "react-router-dom";
 
-export default function RouterPropTestResult(){
+
+export default function RouterPropTestResult(props:any){
+    console.log(props);
     return(
         <>
-        <h1>routerproptestresult</h1>
-        <Link to='routerproptestresult'></Link>
+        <h1>Router Prop Test Result</h1>
         </>
     );
 }
