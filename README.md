@@ -39,5 +39,7 @@ $ npm i react-router-dom
 $ npm i @types/react-router-dom
 ```
 
+-------------------
+props 뭐가 나올지 모를때는 (type이 뭐일지 모를때) any type으로 설정해놓는다 
 
 
