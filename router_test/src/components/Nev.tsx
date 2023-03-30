@@ -11,9 +11,7 @@ export default function Nav(){
         <li><Link to='/about'>About</Link></li>
         <li><Link to='/routerproptest'>RouterPropTest</Link></li>
         <li><Link to='/routerproptestresult'>About</Link></li>
-
-    
-    
+        <li><Link to='/routerproptestresult'>About</Link></li>
     </ul>
     </>
     )

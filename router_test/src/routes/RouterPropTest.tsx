@@ -9,7 +9,7 @@ export default function RouterPropTest() {
         <>
             <h1>Roouterproptest</h1>
             <Link to={{
-                pathname: "/routerproptestresult",state:{menu},
+                pathname: "/routerproptestresult",
             }}>데이터 날리기</Link>
         </>
     );
